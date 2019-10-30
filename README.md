@@ -18,6 +18,6 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 
 
 ## License
-This work is released under [MIT License].[MIT]
+This work is released under [MIT License][MIT]
 
-.[MIT]:https://github.com/Aju100/C-programs/blob/master/LICENSE
+[MIT]:https://github.com/Aju100/C-programs/blob/master/LICENSE
