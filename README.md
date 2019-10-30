@@ -18,7 +18,7 @@ Thanks goes to these wonderful people:
 <table>
 <tr>
 <td align="center">
-<a href="https://github.com/Aju100"><img src="" width="100px;" alt=""/><br /><sub><b>Aju Tamang</b></sub></a><br />
+<a href="https://github.com/Aju100"><img src="https://avatars2.githubusercontent.com/u/29862610?s=400&v=4" width="100px;" alt=""/><br /><sub><b>Aju Tamang</b></sub></a><br />
 </td>
 <td align="center">
 <a href="https://github.com/Anusuyayusuna"><img src="https://avatars0.githubusercontent.com/u/47968087?s=400&v=4" width="100px;" alt=""/><br /><sub><b> Anusuyayusuna
