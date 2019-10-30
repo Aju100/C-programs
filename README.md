@@ -14,7 +14,30 @@ A curated list of C programs. This list contains open source code.
 
 ## Contributors ✨
 
-Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
+Thanks goes to these wonderful people:
+<table>
+<tr>
+<td align="center">
+<a href="https://github.com/Aju100"><img src="" width="100px;" alt=""/><br /><sub><b>Aju Tamang</b></sub></a><br />
+</td>
+<td align="center">
+<a href="https://github.com/Anusuyayusuna"><img src="https://avatars0.githubusercontent.com/u/47968087?s=400&v=4" width="100px;" alt=""/><br /><sub><b> Anusuyayusuna
+</b></sub></a><br />
+
+<td align="center">
+<a href="https://github.com/nepalikingpin"><img src="https://avatars2.githubusercontent.com/u/33629469?s=400&v=4" width="100px;" alt=""/><br /><sub><b> Manish Bhattarai
+</b></sub></a><br />
+
+<td align="center">
+<a href="https://github.com/bit-nk"><img src="https://avatars3.githubusercontent.com/u/53249533?s=400&v=4" width="100px;" alt=""/><br /><sub><b> bit-nk
+</b></sub></a><br />
+
+</td>
+
+</tr>
+</table>
+
+This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
 
 
 ## License
