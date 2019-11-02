@@ -35,7 +35,7 @@ Thanks goes to these wonderful people:
 </td>
 
 <td align="center">
-<a href="https://github.com/SushanShakya"><img src="https://avatars1.githubusercontent.com/u/53656009?s=400&v=4" width="100px;" alt=""/><br /><sub><b> bit-nk
+<a href="https://github.com/SushanShakya"><img src="https://avatars1.githubusercontent.com/u/53656009?s=400&v=4" width="100px;" alt=""/><br /><sub><b> SushanShakya
 </b></sub></a><br />
 
 </td>
